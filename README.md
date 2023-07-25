@@ -1,2 +1,2 @@
 # Netflix-Clone
-Netflic Clone using HTML and CSS
+A simple home page clone of Netflix using basic concepts of HTML and CSS. Upon learning more into web development, I may add more functionalities into this project.
