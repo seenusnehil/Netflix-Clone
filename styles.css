@@ -235,6 +235,8 @@
     margin: 16px 0px 0px 0px;
 }
 
+
+
 .buttons {
     font-size: 1.5rem;
     padding: 24px;
@@ -247,6 +249,11 @@
     color: #ffffff;
 
     border: 0.1px solid rgb(54, 54, 54);
+}
+
+.buttons:hover {
+    background-color: rgb(81, 80, 80);
+    transition: 0.3s;
 }
 
 .faq-content p {
